@@ -7,7 +7,7 @@ from scipy.cluster.hierarchy import linkage, dendrogram, cut_tree
 
 ### LOAD DATA ###
 
-df = pd.read_csv("https://raw.githubusercontent.com/allatambov/StatCS25/blob/main/flats_cian_upd.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/allatambov/StatCS25/refs/heads/main/flats_cian_upd.csv")
 df.head()
 
 # choose some rows - to save time
