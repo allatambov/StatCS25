@@ -5,6 +5,7 @@ from matplotlib import pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 
+# https://disk.yandex.ru/i/Xtm386zwjOazxQ
 df = pd.read_excel("ТВиМС 2025.xlsx")
 df.head()
 
